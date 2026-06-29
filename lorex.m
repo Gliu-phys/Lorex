@@ -32,7 +32,7 @@ function [y_rec, IntermediateResults, FinalResults] = lorex(x, y, varargin)
 %
 % Citation: 
 % If you use this code in your research, please cite it via Zenodo:
-% 
+% https://doi.org/10.5281/zenodo.21019679
 %
 % Acknowledgments:
 % This code includes the 'lorentzfit.m' algorithm by Jered R. Wells (BSD License)
