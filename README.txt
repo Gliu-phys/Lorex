@@ -34,7 +34,7 @@ load('sampledata.mat');
 CITATION:
 If you use this code in your research, please cite it via Zenodo:
 
-Liu, G. (2026). Lorex: Lorentzian Extractor for MATLAB (v1.0.0). Zenodo. 
+Liu, G. (2026). Lorex: Lorentzian Extractor for MATLAB (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.21019679
 
 
 ACKNOWLEDGMENTS:
